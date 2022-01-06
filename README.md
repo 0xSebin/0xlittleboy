@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/litt1eb0y_" target="blank"><img src="https://img.shields.io/twitter/follow/litt1eb0y_?logo=twitter&style=for-the-badge" alt="litt1eb0y_" /></a> </p>
 
  ## Personal Intro
- #### I am just a average guy who was Pursuing Bachelors in B.E-CSE and not good with programming languages at all. After seeing some Hacking Scenes in Movies. I started to dream to become an Hacker 👨‍💻. And After Googling and Learning some stuffs I got an Methodology/idea to hack. I am doing Bug Bounty Hunting in My Free Time and solving some Labs, CTFs to strength my infosec skils. 
+ #### I am just a average guy who was Pursuing Bachelors in B.E-CSE and not good with programming languages at all. After seeing some Hacking Scenes in Movies. I started to dreaming to become an Hacker 👨‍💻. And After Googling and Learning some stuffs I got an Methodology/idea to hack. I am doing Bug Bounty Hunting in My Free Time and solving some Labs, CTFs to strength my infosec skils. 
  
  ## My Skillset
  - ✔️ ***Web Application Penetration Testing***
