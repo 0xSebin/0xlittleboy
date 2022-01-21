@@ -17,7 +17,7 @@
  - ✔️ ***Networking***
  - ✔️ ***Shell Scripting-Bash***
  - ✔️ ***C/C++***
- - ✔️ ***Source code Review***
+ - ✔️ ***Python***
  - ✔️ ***Linux/Unix***
  ## Ask me about,
  - ⚡ ***Bug Bounty*** 
