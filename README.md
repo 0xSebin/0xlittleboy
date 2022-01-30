@@ -18,7 +18,8 @@
  - ✔️ ***Shell Scripting-Bash***
  - ✔️ ***C/C++***
  - ✔️ ***Python***
- - ✔️ ***Linux/Unix***
+ - ✔️ ***Linux/Unix***                                ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75373225/151690158-48d4e7dc-d6eb-41e9-ae64-1f1f0f62d455.gif)
+
 
 ![200w](https://user-images.githubusercontent.com/75373225/148409365-de0863dc-c8bc-4103-875a-24d3fa5368ff.gif)
  
