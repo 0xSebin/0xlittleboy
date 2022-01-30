@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pugalarasan @litt1eb0y🤏👦🏻</h1>
 <h3 align="center">A passionate Ethical Hacker👨🏻‍💻 from India🇮🇳</h3>
 
-   <p align="center"> ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75373225/151690158-48d4e7dc-d6eb-41e9-ae64-1f1f0f62d455.gif) </p>
+   ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75373225/151690158-48d4e7dc-d6eb-41e9-ae64-1f1f0f62d455.gif)
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1eb0yy&label=Profile%20views&color=0e75b6&style=flat" alt="litt1eb0yy" /> </p>
 
