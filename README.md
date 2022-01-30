@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pugalarasan @litt1eb0y🤏👦🏻</h1>
 <h3 align="center">A passionate Ethical Hacker👨🏻‍💻 from India🇮🇳</h3>
 
-   ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75373225/151690158-48d4e7dc-d6eb-41e9-ae64-1f1f0f62d455.gif)
-
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1eb0yy&label=Profile%20views&color=0e75b6&style=flat" alt="litt1eb0yy" /> </p>
 
    <p align="left"> <a href="https://twitter.com/litt1eb0y_" target="blank"><img src="https://img.shields.io/twitter/follow/litt1eb0y_?logo=twitter&style=for-the-    badge" alt="litt1eb0y_" /></a> </p>
@@ -18,7 +16,7 @@
  - ✔️ ***Shell Scripting-Bash***
  - ✔️ ***C/C++***
  - ✔️ ***Python***
- - ✔️ ***Linux/Unix***                                ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75373225/151690158-48d4e7dc-d6eb-41e9-ae64-1f1f0f62d455.gif)
+ - ✔️ ***Linux/Unix***                                
 
 
 ![200w](https://user-images.githubusercontent.com/75373225/148409365-de0863dc-c8bc-4103-875a-24d3fa5368ff.gif)
