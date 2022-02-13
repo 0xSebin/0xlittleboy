@@ -3,7 +3,7 @@
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1eb0yy&label=Profile%20views&color=0e75b6&style=flat" alt="litt1eb0yy" /> </p>
 
-   <p align="left"> <a href="https://twitter.com/litt1eb0y_" target="blank"><img src="https://img.shields.io/twitter/follow/litt1eb0y_?logo=twitter&style=for-the-    badge" alt="litt1eb0y_" /></a> </p>
+   <p align="left"> <a href="https://twitter.com/litt1eb0yy" target="blank"><img src="https://img.shields.io/twitter/follow/litt1eb0y_?logo=twitter&style=for-the-    badge" alt="litt1eb0yy" /></a> </p>
 
    ## Personal Intro
    #### I am just a average guy who was Pursuing Bachelors in CSE and not good with programming languages at all. After seeing some Hacking Scenes in Movies, I      started dreaming to become an Hacker 👨‍💻. And After Googling and Learning some stuffs I got an Methodology/idea to hack. I am doing Bug Bounty Hunting in My        Free Time and solving some Labs, CTFs to strength my infosec skils. 
