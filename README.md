@@ -14,7 +14,6 @@
  - ✔️ ***Googling***
  - ✔️ ***Networking***
  - ✔️ ***Shell Scripting-Bash***
- - ✔️ ***C/C++***
  - ✔️ ***Python***
  - ✔️ ***Linux/Unix***                                
 
