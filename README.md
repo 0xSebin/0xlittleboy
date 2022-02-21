@@ -11,7 +11,7 @@
  ## My Skillset
  - ✔️ ***Web Application Penetration Testing***
  - ✔️ ***OSINT***
- - ✔️ ***Googling***
+ - ✔️ ***Google-ing***
  - ✔️ ***Networking***
  - ✔️ ***Shell Scripting-Bash***
  - ✔️ ***Python***
