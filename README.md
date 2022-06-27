@@ -13,9 +13,10 @@
  - ✔️ ***OSINT***
  - ✔️ ***Google-ing***
  - ✔️ ***Networking***
- - ✔️ ***Shell Scripting-Bash***
+ - ✔️ ***Bash***
  - ✔️ ***Python***
- - ✔️ ***Linux/Unix***                                
+ - ✔️ ***Linux/Unix*** 
+ - ✔️ ***Vulnerability Assessment / Penetration Testing***                               
 
 
 ![200w](https://user-images.githubusercontent.com/75373225/148409365-de0863dc-c8bc-4103-875a-24d3fa5368ff.gif)
