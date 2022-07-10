@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://0xlittleboy.github.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75373225/148575421-c2d0dda7-3581-464e-a194-c90956a06794.png" alt="litt1eb0yy" height="30" width="40" /></a>
 <a href="https://twitter.com/0xlittleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xlittleboy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/little-boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="little-boy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xlittleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="little-boy" height="30" width="40" /></a>
 <a href="https://fb.com/litt1eb0yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xlittleboy" height="30" width="40" /></a>
 <a href="https://instagram.com/0xlittleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xlittleboy" height="30" width="40" /></a>
 <a href="https://medium.com/@litt1eb0y" target="blank"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@litt1eb0y" height="30" width="40" /></a>
