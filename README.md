@@ -34,10 +34,10 @@
 + ***Hacking***
 
 ### Hobbies 🎮
-+ Hacking
-+ Playing CTFs
-+ Reading Infosec blogs
-+ Watching Cyber Security Videos
++ ***Hacking***
++ ***Playing CTFs***
++ ***Reading Infosec blogs***
++ ***Watching Cyber Security Videos***
 
 ### Goals 🎯
 + ***To Make a lot of 💲💲💲💲💲💲💲💲💲***
