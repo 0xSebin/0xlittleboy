@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/0xlittleboy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlittleboy?logo=twitter&style=for-the-badge" alt="0xlittleboy" /></a> </p>
 
 ### Bio 💭
-+ ***Computer Science Student***
++ ***Computer Science Student at KSRCT***
 + ***<s>Ethical</s> Hacker***
 + ***Bug <s>Bounty</s> Hunter***
 
