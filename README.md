@@ -61,7 +61,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&title=Followers,Repositories,Stars,Commits,Issues" alt="0xlittleboy" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=radical" alt="0xlittleboy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=radical" alt="0xlittleboy" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xlittleboy&show_icons=true&locale=en&layout=compact" alt="0xlittleboy" /></p
 
