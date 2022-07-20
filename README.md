@@ -6,7 +6,10 @@
 
 <p align="center"> <a href="https://twitter.com/0xlittleboy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlittleboy?logo=twitter&style=for-the-badge" alt="0xlittleboy" /></a> </p>
 
+
 ### Bio 💭
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=radical" width="380">
+
 + ***Computer Science Student at KSRCT***
 + ***<s>Ethical</s> Hacker***
 + ***Bug <s>Bounty</s> Hunter***
@@ -14,6 +17,8 @@
 ### Tools Knowledge 🛠️
 + ***Unix/Linux***
 + ***Burp Suite***
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy" width="380">
+
 + ***Owasp Zap***
 + ***Nmap***
 + ***MetaSploit***
@@ -22,6 +27,8 @@
 + ***Shell (Bash)***
 + ***C***
 + ***HTML***
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xlittleboy&show_icons=true&locale=en&layout=compact" width="380">
+
 + ***JavaScript***
 
 ### Hobbies 🎮
@@ -33,6 +40,8 @@
 ### Goals 🎯
 + ***To Make a lot of 💲💲💲💲💲💲💲💲💲***
 + ***To Start My Own Company 🏢***
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&row=2&column=3" width="380">
 
 ### EMail  - [💌](littleboy.pugazh@hotmail.com)
 
@@ -49,12 +58,4 @@
 <p><a href="https://www.buymeacoffee.com/litt1eb0y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="litt1eb0y" /></a></p><br><br>
 
 --------------------------
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&title=Followers,Repositories,Stars,Commits,Issues" alt="0xlittleboy" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=radical" alt="0xlittleboy" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xlittleboy&show_icons=true&locale=en&layout=compact" alt="0xlittleboy" /></p
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&" alt="0xlittleboy" /></p>
 
