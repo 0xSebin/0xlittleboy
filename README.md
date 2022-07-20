@@ -24,15 +24,6 @@
 + ***HTML***
 + ***JavaScript***
 
-### Experience 🎗
-+ ***No Industrial Experience*** 😭
-
-### Ask Me About 💬
-+ ***Bug Bounty***
-+ ***Cyber Security***
-+ ***Linux***
-+ ***Hacking***
-
 ### Hobbies 🎮
 + ***Hacking***
 + ***Playing CTFs***
