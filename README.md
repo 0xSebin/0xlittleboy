@@ -27,7 +27,7 @@
 + ***Shell (Bash)***
 + ***C***
 + ***HTML***
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xlittleboy&show_icons=true&locale=en&layout=compact" width="380">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xlittleboy&show_icons=true&locale=en&layout=compact&theme=chalk" width="380">
 
 + ***JavaScript***
 
@@ -38,10 +38,10 @@
 + ***Watching Cyber Security Videos***
 
 ### Goals 🎯
-+ ***To Make a lot of 💲💲💲💲💲💲💲💲💲***
-+ ***To Start My Own Company 🏢***
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&row=2&column=3&theme=onedark" width="380">
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&row=2&column=3" width="380">
++ ***To Make a lot of 💲💲💲💲💲***
++ ***To Start My Own Company 🏢***
 
 ### EMail  - [💌](littleboy.pugazh@hotmail.com)
 
