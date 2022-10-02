@@ -3,9 +3,9 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlittleboy&label=Profile%20views&color=0e75b6&style=flat" alt="0xlittleboy" /> </p>
  <a href="https://twitter.com/0xlittleboy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlittleboy?logo=twitter&style=for-the-badge" alt="0xlittleboy" /></a>
 
-<img aligh="left" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&row=2&column=3&theme=onedark" >
+<img aligh="left" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&theme=onedark" >
      
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=dark" width="300" >
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=dark" width="300" > </p>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=radical" width="300" >
 
