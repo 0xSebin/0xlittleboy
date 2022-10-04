@@ -4,7 +4,6 @@
  <a href="https://twitter.com/0xlittleboy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlittleboy?logo=twitter&style=for-the-badge" alt="0xlittleboy" /></a>
 
      
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&theme=dark" width="360" >
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=radical" width="360" >
 
