@@ -5,11 +5,13 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&bg_color=0d1117&hide_border=true&text_color=2bbc8a&title_color=becacc&icon_color=666666" width="360" >  
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=merko" width="360" >
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=merko" width="360" >
 
 <img aligh="left" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&theme=matrix&row=2&column=7" >
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" src="https://user-images.githubusercontent.com/75373225/193977346-9cec187a-efa4-4611-b021-aecd0f3b17c0.gif" width="500" height="250" >
+
+<h3>Languages and Tools:</h3>
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -28,7 +30,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="right" src="https://user-images.githubusercontent.com/75373225/193977346-9cec187a-efa4-4611-b021-aecd0f3b17c0.gif" width="500" height="250" >
 
 
 <h3 align="left">Connect with me:</h3>
