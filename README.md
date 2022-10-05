@@ -28,6 +28,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<img align="right" src="https://user-images.githubusercontent.com/75373225/193977346-9cec187a-efa4-4611-b021-aecd0f3b17c0.gif" width="500" height="250" >
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xlittleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xlittleboy" height="30" width="40" /></a>
