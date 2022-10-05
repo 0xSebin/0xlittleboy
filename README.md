@@ -3,13 +3,15 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlittleboy&label=Profile%20views&color=0e75b6&style=flat" alt="0xlittleboy" /> </p>
  <a href="https://twitter.com/0xlittleboy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlittleboy?logo=twitter&style=for-the-badge" alt="0xlittleboy" /></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&bg_color=0d1117&hide_border=true&text_color=2bbc8a&title_color=becacc&icon_color=666666" width="360" >  
+<img align="right" src="https://user-images.githubusercontent.com/75373225/193977346-9cec187a-efa4-4611-b021-aecd0f3b17c0.gif" width="500" height="250" >
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=merko" width="360" >
+<img src="https://github-readme-stats.vercel.app/api?username=0xlittleboy&show_icons=true&bg_color=0d1117&hide_border=true&text_color=2bbc8a&title_color=becacc&icon_color=666666" width="360" >  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xlittleboy&theme=merko" width="360" >
+
 
 <img aligh="left" src="https://github-profile-trophy.vercel.app/?username=0xlittleboy&theme=matrix&row=2&column=7" >
 
-<img align="right" src="https://user-images.githubusercontent.com/75373225/193977346-9cec187a-efa4-4611-b021-aecd0f3b17c0.gif" width="500" height="250" >
 
 <h3>Languages and Tools:</h3>
 
