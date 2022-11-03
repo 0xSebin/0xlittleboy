@@ -45,4 +45,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/litt1eb0y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="litt1eb0y" /></a></p><br><br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=0xlittleboy&bg_color=0d1117&color=2bbc8a&line=becacc&point=666666&area=true&hide_border=true" >
